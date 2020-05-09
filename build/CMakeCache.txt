@@ -106,7 +106,7 @@ CMAKE_PROJECT_DESCRIPTION:STATIC=
 CMAKE_PROJECT_HOMEPAGE_URL:STATIC=
 
 //Value Computed by CMake
-CMAKE_PROJECT_NAME:STATIC=Project
+CMAKE_PROJECT_NAME:STATIC=abgabe
 
 //RC compiler
 CMAKE_RC_COMPILER:FILEPATH=rc
@@ -184,6 +184,12 @@ Project_BINARY_DIR:STATIC=C:/Users/Lucas/source/repos/programmiersprachen-aufgab
 
 //Value Computed by CMake
 Project_SOURCE_DIR:STATIC=C:/Users/Lucas/source/repos/programmiersprachen-aufgabe-1
+
+//Value Computed by CMake
+abgabe_BINARY_DIR:STATIC=C:/Users/Lucas/source/repos/programmiersprachen-aufgabe-1/build
+
+//Value Computed by CMake
+abgabe_SOURCE_DIR:STATIC=C:/Users/Lucas/source/repos/programmiersprachen-aufgabe-1
 
 
 ########################

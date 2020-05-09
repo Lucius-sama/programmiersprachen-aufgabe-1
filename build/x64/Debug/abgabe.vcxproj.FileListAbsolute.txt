@@ -1,0 +1,2 @@
+C:\Users\Lucas\source\repos\programmiersprachen-aufgabe-1\build\x64\Debug\abgabe.exe
+C:\Users\Lucas\source\repos\programmiersprachen-aufgabe-1\build\x64\Debug\abgabe.pdb
