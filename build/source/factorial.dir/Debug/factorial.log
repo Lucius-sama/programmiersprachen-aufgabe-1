@@ -1,0 +1,6 @@
+﻿  Building Custom Rule C:/Users/Lucas/source/repos/programmiersprachen-aufgabe-1/source/CMakeLists.txt
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(231,5): warning MSB8065: Custom build for item "C:\Users\Lucas\source\repos\programmiersprachen-aufgabe-1\source\CMakeLists.txt" succeeded, but specified output "c:\users\lucas\source\repos\programmiersprachen-aufgabe-1\build\source\cmakefiles\generate.stamp" has not been created. This may cause incremental build to work incorrectly.
+  factorial.cpp
+C:\Users\Lucas\source\repos\programmiersprachen-aufgabe-1\source\factorial.cpp(21,5): error C3861: 'volume': identifier not found
+C:\Users\Lucas\source\repos\programmiersprachen-aufgabe-1\source\factorial.cpp(22,5): error C3861: 'volume': identifier not found
+C:\Users\Lucas\source\repos\programmiersprachen-aufgabe-1\source\factorial.cpp(23,5): error C3861: 'volume': identifier not found
