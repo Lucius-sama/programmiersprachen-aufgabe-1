@@ -1,2 +1,4 @@
-﻿  Abgabe_1.cpp
-  abgabe.vcxproj -> C:\Users\Lucas\source\repos\programmiersprachen-aufgabe-1\build\x64\Debug\abgabe.exe
+﻿  tests.cpp
+C:\Users\Lucas\source\repos\programmiersprachen-aufgabe-1\test\tests.cpp(18): warning C4715: 'gcd': not all control paths return a value
+tests.obj : error LNK2005: main already defined in Abgabe_1.obj
+C:\Users\Lucas\source\repos\programmiersprachen-aufgabe-1\build\x64\Debug\abgabe.exe : fatal error LNK1169: one or more multiply defined symbols found

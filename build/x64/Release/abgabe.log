@@ -1,7 +1,19 @@
 ﻿  Abgabe_1.cpp
-  Code wird generiert.
-  2 of 2 functions (100.0%) were compiled.
-    0 functions were new in current compilation
-    0 functions had inline decision re-evaluated but remain unchanged
-  Codegenerierung ist abgeschlossen.
-  abgabe.vcxproj -> C:\Users\Lucas\source\repos\programmiersprachen-aufgabe-1\build\x64\Release\abgabe.exe
+C:\Users\Lucas\source\repos\programmiersprachen-aufgabe-1\source\Abgabe_1.cpp(48,24): warning C4804: '>': unsafe use of type 'bool' in operation
+C:\Users\Lucas\source\repos\programmiersprachen-aufgabe-1\source\Abgabe_1.cpp(61,11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Lucas\source\repos\programmiersprachen-aufgabe-1\source\Abgabe_1.cpp(69,28): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Lucas\source\repos\programmiersprachen-aufgabe-1\source\Abgabe_1.cpp(77,24): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  mile_to_kilometer.cpp
+  tests.cpp
+C:\Users\Lucas\source\repos\programmiersprachen-aufgabe-1\source\tests.cpp(29,2): error C3861: 'checksum': identifier not found
+C:\Users\Lucas\source\repos\programmiersprachen-aufgabe-1\source\tests.cpp(30,2): error C3861: 'checksum': identifier not found
+C:\Users\Lucas\source\repos\programmiersprachen-aufgabe-1\source\tests.cpp(31,2): error C3861: 'checksum': identifier not found
+C:\Users\Lucas\source\repos\programmiersprachen-aufgabe-1\source\tests.cpp(36,2): error C3861: 'fract': identifier not found
+C:\Users\Lucas\source\repos\programmiersprachen-aufgabe-1\source\tests.cpp(37,2): error C3861: 'fract': identifier not found
+C:\Users\Lucas\source\repos\programmiersprachen-aufgabe-1\source\tests.cpp(38,2): error C3861: 'fract': identifier not found
+C:\Users\Lucas\source\repos\programmiersprachen-aufgabe-1\source\tests.cpp(43,2): error C3861: 'surf': identifier not found
+C:\Users\Lucas\source\repos\programmiersprachen-aufgabe-1\source\tests.cpp(44,2): error C3861: 'surf': identifier not found
+C:\Users\Lucas\source\repos\programmiersprachen-aufgabe-1\source\tests.cpp(45,2): error C3861: 'surf': identifier not found
+C:\Users\Lucas\source\repos\programmiersprachen-aufgabe-1\source\tests.cpp(50,2): error C3861: 'volume': identifier not found
+C:\Users\Lucas\source\repos\programmiersprachen-aufgabe-1\source\tests.cpp(51,2): error C3861: 'volume': identifier not found
+C:\Users\Lucas\source\repos\programmiersprachen-aufgabe-1\source\tests.cpp(52,2): error C3861: 'volume': identifier not found
